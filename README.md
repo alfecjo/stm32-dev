@@ -1,4 +1,4 @@
-# 🔧 stm32-dev — Projetos com STM32 e Sistemas Embarcados
+# 🔧 Projetos com STM32 e Sistemas Embarcados
 
 🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
 
