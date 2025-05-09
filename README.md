@@ -51,7 +51,7 @@ stm32-dev/
 
 ### 🔌 Aplicações Desenvolvidas
 - ✅ Temporizador (bare-metal)
-- ✅ Comunicação UART com PC e ESP32
+- ✅ Comunicação UART com PC + Java-Spring
 - ✅ Leitura de sensores analógicos e digitais
 - ✅ Controle de atuadores via PWM
 - ✅ Comunicação via MQTT com broker público
