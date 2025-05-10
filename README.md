@@ -101,5 +101,5 @@ Contribuições são muito bem-vindas! Se você quiser propor melhorias, sugerir
 
 ---
 
-- ## Return to the main page
+- ## Return
   [![Main Page](https://img.shields.io/badge/Main-Page?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alfecjo)
