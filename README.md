@@ -1,6 +1,6 @@
 # 🔧 Projetos com STM32 e Sistemas Embarcados
 
-![Página em manutenção](./manutencao1.png)
+![Página em manutenção](./manutencao7.png)
 
 <!-- 🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]() -->
 
