@@ -1,12 +1,14 @@
 # 🔧 Projetos com STM32 e Sistemas Embarcados
 
-🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]()
+![Página em manutenção](./manutencao1.png)
 
-🔗 [![Tecnologia](https://img.shields.io/badge/Plataforma-STM32-blue?style=for-the-badge)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html)
+<!-- 🔗 [![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow?style=for-the-badge)]() -->
 
-🔗 [![Linguagem](https://img.shields.io/badge/Linguagem-C%2FC++-informational?style=for-the-badge)]()
+<!-- 🔗 [![Tecnologia](https://img.shields.io/badge/Plataforma-STM32-blue?style=for-the-badge)](https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html) -->
 
-🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE)
+<!-- 🔗 [![Linguagem](https://img.shields.io/badge/Linguagem-C%2FC++-informational?style=for-the-badge)]() -->
+
+<!-- 🔗 [![Licença](https://img.shields.io/badge/Licença-MIT-green?style=for-the-badge)](LICENSE) -->
 
 ## 📌 Descrição
 
