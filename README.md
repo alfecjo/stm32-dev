@@ -1,4 +1,4 @@
-# 🔧 Projetos com STM32 e Sistemas Embarcados
+# 🔧 Projetos com µcontroladores da família ST e Sistemas Embarcados
 
 ![Página em manutenção](./manutencao7.png)
 
